@@ -1,0 +1,24 @@
+body{
+    background: color 6;
+};
+h1{
+    text-align: center;
+    color: red;}
+h2{
+    text-align: center;
+    color: red;}
+h3{
+    text-align: center;
+    color: red;}
+.ps {
+        text-transform: uppercase;
+    }
+.text{
+        font-style: italic;
+    }
+.end{
+    color: red;
+}
+html{
+    font-size: 70px;
+}
